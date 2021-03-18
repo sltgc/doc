@@ -13,7 +13,7 @@ Ce tutoriel a pour but de contourner le problème d’IP dynamique qui est le su
 
 Après avoir mis en place la solution proposée dans ce tutoriel, la redirection du nom de domaine vers l’adresse IP ne sera plus perdue.
 
-La méthode qui sera mise en place consiste à rendre automatique le fait que la box annonce au DNS dynamique qu’elle a changée d’adresse IP publique, et qu’ensuite la zone DNS soit automatiquement changée.
+La méthode qui sera mise en place consiste à rendre automatique le fait que la box annonce au DNS dynamique qu’elle a changé d’adresse IP publique, et qu’ensuite la zone DNS soit automatiquement changée.
 
 ### Bureaux d'enregistrement
 Voici quelques bureaux d'enregistrement, qui permettent d'acheter des noms de domaine :
